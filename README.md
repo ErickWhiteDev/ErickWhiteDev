@@ -9,7 +9,13 @@ I've been interested in computer science for a long time (I started coding in Sc
 when I was in elementary school, and finally moved on to Python, Java, and other languages
 in high school); I hope to be able to pursue my interest through a possible minor in computer science.
 
-Check out my portfolio website [here](https://erickwhitedev.github.io/portfolio/)!
+<br>
+
+<p align="center">
+    Check out my portfolio website <a href="https://erickwhitedev.github.io/portfolio/">here</a>!
+</p>
+
+<br>
 
 <p align="center">
     <img alt="Languages in my Portfolio" src="https://img.shields.io/github/languages/count/ErickWhiteDev/portfolio?label=Languages%20in%20my%20Portfolio&style=flat-square">
