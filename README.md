@@ -30,7 +30,7 @@ in high school); I hope to be able to pursue my interest through a possible mino
 
 ## Languages
 
-### Intermediate-Skill
+### Intermediate Skill
 - Java
 - Python
 
