@@ -1,6 +1,7 @@
 # About Me
-> ![Erick White](ErickWhite.jpg)
-> *This is me!*
+<p align="center">
+    <img alt="Erick White" src="ErickWhite.jpg" width="50%">
+</p>
 
 ### Hi, I'm Erick White - student, programmer, explorer.
 I'm an aerospace engineering major at the [University of Colorado Boulder](https://www.colorado.edu/), currently in my freshman year.
