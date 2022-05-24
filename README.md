@@ -23,17 +23,14 @@ Check out my portfolio website [here](https://erickwhitedev.github.io/portfolio/
 
 ## Languages
 
-### High-Skill
+### Intermediate-Skill
 - Java
 - Python
-
-### Intermediate Skill
-- C#
-- CSS
 
 ### Beginner Skill
 - JavaScript
 - Kotlin
+- C#
 
 <br>
 
