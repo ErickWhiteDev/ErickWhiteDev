@@ -33,11 +33,13 @@ in high school); I hope to be able to pursue my interest through a possible mino
 ### Intermediate Skill
 - Java
 - Python
+- JavaScript
 
 ### Beginner Skill
-- JavaScript
 - Kotlin
 - C#
+- C++
+- MATLAB
 
 <br>
 
