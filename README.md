@@ -1,6 +1,6 @@
 <p align="center">
-    <em>Hi, I'm Erick White - student, programmer, explorer.<em>
-    <img alt="Erick White" src="ErickWhite.jpg" width="50%">
+    <b style="display: block">Hi, I'm Erick White - student, programmer, explorer.<b>
+    <img alt="Erick White" src="ErickWhite.jpg" width="50%" style="display: block">
 </p>
 
 I'm an aerospace engineering major at the [University of Colorado Boulder](https://www.colorado.edu/), currently in my freshman year.
