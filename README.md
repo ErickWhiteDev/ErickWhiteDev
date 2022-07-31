@@ -1,9 +1,8 @@
-# About Me
 <p align="center">
+    <em>Hi, I'm Erick White - student, programmer, explorer.<em>
     <img alt="Erick White" src="ErickWhite.jpg" width="50%">
 </p>
 
-### Hi, I'm Erick White - student, programmer, explorer.
 I'm an aerospace engineering major at the [University of Colorado Boulder](https://www.colorado.edu/), currently in my freshman year.
 I've been interested in computer science for a long time (I started coding in Scratch
 when I was in elementary school, and finally moved on to Python, Java, and other languages
