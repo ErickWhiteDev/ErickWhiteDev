@@ -33,11 +33,11 @@ in high school); I hope to be able to pursue my interest through a possible mino
 - Java
 - Python
 - JavaScript
+- C++
 
 ### Beginner Skill
 - Kotlin
 - C#
-- C++
 - MATLAB
 
 <br>
