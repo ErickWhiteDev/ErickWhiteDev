@@ -26,16 +26,11 @@ in high school); I hope to be able to pursue my interest through a possible mino
 
 ## Languages
 
-### Intermediate Skill
 - Java
 - Python
-- JavaScript
 - C++
-
-### Beginner Skill
-- Kotlin
-- C#
 - MATLAB
+- JavaScript
 
 <br>
 
