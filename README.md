@@ -37,10 +37,10 @@ I am now pursuing an additional minor in applied math.
 
 ## Languages
 
-- Java
-- Python
-- C++
 - MATLAB
+- Java
+- C++
+- Python
 - JavaScript
 
 <br>
