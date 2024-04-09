@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erick White - student, programmer, explorer.</h1>
+<h1 align="center">Hi, I'm Erick White - student, developer, engineer.</h1>
 <p align="center">
     <img alt="Erick White" src="ErickWhite.jpg" width="50%">
 </p>
