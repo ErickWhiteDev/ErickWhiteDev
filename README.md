@@ -3,7 +3,7 @@
     <img alt="Erick White" src="erick-white.jpg" width="50%">
 </p>
 
-I'm an aerospace engineering major at the [University of Colorado Boulder](https://www.colorado.edu/), currently in my junior year.
+I'm an aerospace engineering and applied math major at the [University of Colorado Boulder](https://www.colorado.edu/), currently in my junior year.
 
 My interest in space has been with me since I was very young (I started out with astronomy from my backyard in Germany 
 when I was only three or four years old and haven't stopped since then), but my interest in aerospace engineering was 
@@ -17,7 +17,7 @@ pursue my interest in programming through a minor in computer science.
 I've been interested in math even longer than computer science; I remember being gifted a book on the history of 
 mathematics when I was in elementary school and bringing it with me on a family trip to Italy (during which I read the 
 whole thing). Both pure and applied math are very intriguing to me, although (since it aligns better with engineering) 
-I am now pursuing an additional minor in applied math.
+I am now pursuing an additional major in applied math.
 
 <br>
 
