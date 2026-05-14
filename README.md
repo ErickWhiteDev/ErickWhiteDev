@@ -3,7 +3,7 @@
     <img alt="Erick White" src="erick-white.jpg" width="50%">
 </p>
 
-I am an incoming astrodynamics Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu/) with dual degrees in aerospace engineering and applied math major from the [University of Colorado Boulder](https://www.colorado.edu/).
+I am an incoming astrodynamics Ph.D. student at [The University of Texas at Austin](https://www.utexas.edu/) with dual degrees in aerospace engineering and applied math from the [University of Colorado Boulder](https://www.colorado.edu/).
 
 My interest in space has been with me since I was very young (I started out with astronomy from my backyard in Germany 
 when I was only three or four years old and haven't stopped since then), but my interest in aerospace engineering was 
